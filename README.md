@@ -1,5 +1,13 @@
 # Data Prep & Transformation - Caso de Uso Prático
 
+## Equipe
+- Carolina Suelen Attili 10369043
+- Davi Santos Messias 10444890
+- Aline Couto	10206399
+- Cristian Barros	10444616
+
+---
+
 ## Sobre o Projeto
 Este projeto foi desenvolvido como parte da disciplina **Data Prep & Transformation** no MBA de Engenharia de Dados da Universidade Mackenzie. O objetivo é criar um fluxo completo de preparação e transformação de dados brutos de um e-commerce brasileiro, transformando-os em dados especialistas para análise. Abaixo estão as respostas detalhadas para as perguntas do caso de uso.
 
